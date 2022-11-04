@@ -1,0 +1,7 @@
+{
+    "name": "webtourismus/alpinejs-persist",
+    "description": "Mirror of https://www.npmjs.com/package/@alpinejs/persist as drupal-library",
+    "license": "MIT",
+    "type": "drupal-library",
+    "homepage": "https://alpinejs.dev/plugins/persist"
+}
